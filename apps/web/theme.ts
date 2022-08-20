@@ -8,7 +8,7 @@ const theme = extendTheme({
     brand: {
       primary: "#493323",
       primaryHover: "rgba(73, 51, 35, 0.8)",
-      white: "#fff",
+      white: "#FDFDFD",
       secondary: "#8e4585",
       accent: "#009DAE",
       highlight: "rgba(17, 105, 121, 0.1)",
